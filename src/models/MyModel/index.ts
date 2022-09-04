@@ -1,5 +1,5 @@
 import { createModel, RematchDispatch } from '@rematch/core';
-import type { RootModel } from '#src/models/model';
+import type { RootModel } from '../src/models/model';
 
 type defaultState = {
   name: string,
